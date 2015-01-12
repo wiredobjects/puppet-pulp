@@ -1,0 +1,14 @@
+{
+  "name": "wiredobjects/pulp",
+  "version": "0.1.0",
+  "author": "wiredobjects",
+  "summary": "Module to maintain a Pulp software repository management server",
+  "license": "Apache 2.0",
+  "source": "https://github.com/wiredobjects/puppet-pulp",
+  "project_page": "https://github.com/wiredobjects/puppet-pulp",
+  "issues_url": "https://github.com/wiredobjects/puppet-pulp/issues",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ]
+}
+
